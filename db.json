@@ -1,5 +1,4 @@
-{
-  "gallery": [
+ [
     {
       "id": 1,
       "imgPath": "https://firebasestorage.googleapis.com/v0/b/pinapp-ec960.appspot.com/o/images%2F25dc0274a584cf653f14fd80a96fa4c8.jpg?alt=media&token=179a90f9-94bd-4ad1-a9f9-d9bd12ce51f7"
@@ -17,4 +16,4 @@
       "imgPath":"https://firebasestorage.googleapis.com/v0/b/pinapp-ec960.appspot.com/o/images%2Fkrishna.jpg?alt=media&token=0a3e25eb-7fca-4a2d-b4f0-3e1d918727e2"
     }
 	  ]
- }
+ 
